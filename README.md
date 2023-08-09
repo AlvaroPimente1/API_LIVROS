@@ -1,5 +1,5 @@
 <h1>APi CRUD conectada a Banco PostgreSQL</h1>
-Contém:
+<h2>Utilizando Entity Framework, contém:</h2>
 <ul>
   <li>Criar</li>
   <li>Consultar</li>
